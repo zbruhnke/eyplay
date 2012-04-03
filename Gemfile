@@ -9,7 +9,7 @@ gem 'sqlite3'
 
 
 group :production do
-  gem 'mysql2', '~> 0.3.11'
+  gem 'mysql2'
 end
 
 # Gems used only for assets and not required
